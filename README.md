@@ -15,11 +15,11 @@ Enjoy the read :smile:
 ---
 | Code  | Name | Published Article | Deployed App |
 |----------|----------|----------|----------|
-| Row 1,   | Row 1,   | Row 1,   | Row 1,   |
+| LP1   |  India Startup Analysis | https://www.linkedin.com/pulse/aricle-company-funding-india-elly-othim   | https://github.com/EllyOkumuAzubi/LP1-PARIS---INDIA-START-UP-ECOSYSTEM-ANALYSIS.git |
 |----------|----------|----------|----------|
-| Row 2,   | Row 2,   | Row 2,   | Row 2,   |
+| LP2  | Time series Linear Regression | https://medium.com/afutunikoi/store-sales-time-series-forecasting-and-analysis-regression-project-9281783ed2d2   | https://github.com/EllyOkumuAzubi/LP2-REGRESSION-ANALTSIS-TIME-SERIES.-TEAM-PARIS-.git   |
 |----------|----------|----------|----------|
-| Row 3,   | Row 3,   | Row 3,   | Row 3,   |
+| LP3   | Row 3,   | Row 3,   | Row 3,   |
 
 
 
