@@ -1,4 +1,6 @@
+---
 # TEAM PARIS LP1 - LP3 PROJECTS :bulb::bulb: :bulb:
+---
 This is Team Paris Azubi Africa Project repository where we will put all our projects. :book:
 Each project is worked on for one month :hourglass: and is a combined effort of the team members listed below.
 
@@ -11,6 +13,14 @@ Interesting findings are in every project :fire: :fire: :fire: and would invite 
 Enjoy the read :smile:
 **HERE ARE THE ATTACHED PROJECTS FOLLOWED BY THE PROJECTS DESCRIPTIONS**
 ---
+| Code  | Name | Published Article | Deployed App |
+|----------|----------|----------|----------|
+| Row 1,   | Row 1,   | Row 1,   | Row 1,   |
+|----------|----------|----------|----------|
+| Row 2,   | Row 2,   | Row 2,   | Row 2,   |
+|----------|----------|----------|----------|
+| Row 3,   | Row 3,   | Row 3,   | Row 3,   |
+
 
 
 
