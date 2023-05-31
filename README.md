@@ -32,8 +32,13 @@ Enjoy the read :smile:
 ---
 ## **AUTHORS** 
 -Elly Okumu :heavy_check_mark:
+
 -Awudu Jamal :heavy_check_mark:
+
 -Jonas Afutu :heavy_check_mark:
+
 -Vincent Kipkorir :heavy_check_mark:
+
 -David Mantey :heavy_check_mark:
+
 -Eric Mugisha :heavy_check_mark:
